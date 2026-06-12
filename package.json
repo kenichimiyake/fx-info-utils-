@@ -1,0 +1,20 @@
+{
+  "name": "fx-info-utils",
+  "version": "1.0.0",
+  "description": "Simple utility helpers for FX-related calculations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": ["fx", "utility", "finance"],
+  "author": "Kenichi Miyake",
+  "license": "MIT",
+  "homepage": "https://song.co.jp/fx/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kenichimiyake/fx-info-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kenichimiyake/fx-info-utils/issues"
+  }
+}
